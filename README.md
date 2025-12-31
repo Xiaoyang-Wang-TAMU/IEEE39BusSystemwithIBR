@@ -33,9 +33,7 @@ This repository provides the MATLAB/Simulink (R2024a) models for distributed coo
 
    ### Software Requirements
    - MATLAB R2024a (For users with other version Matlab simulink, Please contact wangxy@tamu.edu.).
-  
    - Simulink.
-  
    - Simscape Electrical.
   
 Note: The scope of this paper is limited to frequency control. For voltage control of inverter-based resources (IBRs), a constant reactive power 
