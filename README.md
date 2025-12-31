@@ -14,6 +14,7 @@ The "xxx.m" matlab function file in each folder is used for the paprameter initi
 
 Note: the scope of this paper is only for frequency control, for the Voltage control of IBR, we used constant reactive power Q for GFL, and constant voltage magnitude for GFM. Users can adjust the voltage control according to the requirement.
 
+<img width="2054" height="1534" alt="image" src="https://github.com/user-attachments/assets/f3d36c99-f695-4b67-a5e2-2afcfe1aff7a" />
 
 
 
