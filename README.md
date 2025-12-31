@@ -13,9 +13,13 @@ The benchmark model which does not include the proposed secondary frequency and 
 
 The "xxx.m" matlab function file in each folder is used for the paprameter initialization, hence, please include it in the matlab path.
 
-Note: the scope of this paper is only for frequency control, for the Voltage control of IBR, we used constant reactive power Q for GFL, and constant voltage magnitude for GFM. Users can adjust the voltage control according to the requirement.
+Note: The scope of this paper is limited to frequency control. For voltage control of inverter-based resources (IBRs), a constant reactive power 
+Q is adopted for grid-following (GFL) inverters, and a constant voltage magnitude is used for grid-forming (GFM) inverters. Users may adjust the voltage control strategy according to specific application requirements.
 
 <img width="2054" height="1534" alt="image" src="https://github.com/user-attachments/assets/f3d36c99-f695-4b67-a5e2-2afcfe1aff7a" />
 
+Please cite this project as follows:
+
+[1] Xiaoyang Wang*, Xin Chen, “Distributed Coordination of Grid-Forming and Grid-Following Inverters for Optimal Frequency Control in Power Systems“, arXiv:2411.12682, 2025.
 
 
