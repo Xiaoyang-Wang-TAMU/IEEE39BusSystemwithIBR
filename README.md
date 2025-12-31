@@ -1,4 +1,4 @@
-# IEEE39BusSystemwithIBR
+# IEEE 39-Bus System with 100% IBR
 IEEE 39 bus system with 100% IBR (4GFM and 6GFL)
 
 # Distributed Optimal Frequency Control for IBR-Dominated Power Systems
