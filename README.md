@@ -32,9 +32,8 @@ This repository provides the MATLAB/Simulink (R2024a) models for distributed coo
    Please ensure that the corresponding folder is added to the MATLAB path before running the simulations.
 
    ### Software Requirements
-   - MATLAB R2024a (For users with other version Matlab simulink, Please contact wangxy@tamu.edu.).
-   - Simulink.
-   - Simscape Electrical.
+   - MATLAB R2024a (For users with other version Matlab simulink, Please contact wangxy@tamu.edu).
+   - Simulink with Simscape Electrical.
   
 Note: The scope of this paper is limited to frequency control. For voltage control of inverter-based resources (IBRs), a constant reactive power 
 Q is adopted for grid-following (GFL) inverters, and a constant voltage magnitude is used for grid-forming (GFM) inverters. Users may adjust the voltage control strategy according to specific application requirements.
