@@ -25,7 +25,7 @@ This repository provides the MATLAB/Simulink (R2024a) models for distributed coo
    **IEEE39IBR_ProposedOFC/IEEE39_IBR_FrequencyControl_Fullversion_Opensource.slx**
    ### Benchmark Model (Primary Frequency Control Only)
    The benchmark model, which includes only primary frequency control and excludes the proposed secondary control, is implemented in:
-  **IEEE39IBR_Primary/IEEE39_IBR_FrequencyControl_Primary.slx**
+  **IEEE39IBR_Primary/IEEE39_IBR_FrequencyControl_Primary_Revise.slx**
   
    ### Parameter Initialization
    Each folder contains MATLAB function files (*.m) used for parameter initialization.
