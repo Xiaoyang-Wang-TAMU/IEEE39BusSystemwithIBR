@@ -9,7 +9,7 @@ This repository provides the MATLAB/Simulink (R2024a) models for distributed coo
 
 ## Related Paper
 
-- Xiaoyang Wang, Xin Chen, “Distributed Coordination of Grid-Forming and Grid-Following Inverters for Optimal Frequency Control in Power Systems“, arXiv:2411.12682, 2025.
+- Xiaoyang Wang, Xin Chen, "A Unified Framework for Hybrid Grid-Forming and Grid-Following Inverter Control." arXiv preprint arXiv:2607.01616 (2026).
 ---
 
 ## Model Overview
