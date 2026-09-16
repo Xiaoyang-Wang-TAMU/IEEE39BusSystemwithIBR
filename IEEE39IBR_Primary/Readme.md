@@ -1,5 +1,5 @@
 ***Update Note***
-
+9/16/2026
 In Second Version, all the frequency related variable, line parameters, load base frequency, PLL base frequency,  controlled voltage source initial value frequency, GFM , GFL reference frequency are controlled by parameter: Fref. Fref can be either 50 or 60.
 
 ALL PI control parameters are calculated based on Pole–zero cancellation or Pole placement method. User can adjust the bandwidth of the controller, and the PI paraeters will be calculated automatically.
