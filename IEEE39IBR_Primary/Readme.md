@@ -8,3 +8,5 @@ To make the model stable, bandwidth need to be adjusted carefully.
 The LC filter parameter R L C also need to be adjusted to avoid oscillation as the PI parameters are coupled with or based on R L C.
 
 As we modify the total generation and load to almost 23 pu (in 1 MW), which is smaller than the original IEEE 39 bus system (62.5 pu in 100MVA), the line-charging susceptances may need to be reduced as not so much Q needed.
+
+I will continuously  improve the model to make it more standardized and easier to use.
