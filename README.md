@@ -43,6 +43,6 @@ Q is adopted for grid-following (GFL) inverters, and a constant voltage magnitud
 
 Please cite this project as follows:
 
-[1] Xiaoyang Wang*, Xin Chen, “Distributed Coordination of Grid-Forming and Grid-Following Inverters for Optimal Frequency Control in Power Systems“, arXiv:2411.12682, 2025.
+[1] X. Wang and X. Chen, “Distributed coordination of grid-forming and grid-following inverters for optimal frequency control in power systems,” IEEE Trans. Power Syst., vol. 41, no. 5, pp. 3831–3846, Sep. 2026.
 
 
